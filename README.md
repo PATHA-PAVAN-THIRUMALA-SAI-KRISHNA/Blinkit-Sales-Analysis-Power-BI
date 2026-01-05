@@ -13,3 +13,12 @@ Compare sales by outlet size, location tier, and establishment year
 Understand the impact of fat content on sales
 
 Provide actionable insights using interactive filters
+# 🧰 Tools & Technologies Used
+
+Power BI Desktop
+
+Data modeling & DAX
+
+Interactive slicers and filters
+
+Visuals: KPI cards, bar charts, line charts, donut charts, tables
