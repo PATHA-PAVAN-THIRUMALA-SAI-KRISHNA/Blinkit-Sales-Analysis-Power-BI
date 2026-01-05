@@ -54,6 +54,14 @@ Download the .pbix file from the repository
 Open it using Power BI Desktop
 
 Use slicers to explore insights by outlet and product type
+## 📌 Project Status
+
+✅ Completed | 📊 Portfolio Ready
+## 👤 Author
+
+Pavan Sai
+📧 Add your email
+🔗 Add your LinkedIn profile
 
 
 
