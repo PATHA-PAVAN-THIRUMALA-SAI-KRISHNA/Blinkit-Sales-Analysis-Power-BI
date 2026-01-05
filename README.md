@@ -38,3 +38,15 @@ Tier 3 outlets outperform Tier 1 and Tier 2 in total sales
 Medium-sized outlets show the best sales performance
 
 Fruits, snacks, and household items are top-selling categories
+## 📂 Dataset Information
+
+The dataset includes:
+
+Item details (item type, fat content, visibility)
+
+Outlet details (outlet type, size, location tier, establishment year)
+
+Sales metrics and customer ratings
+
+
+
