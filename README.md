@@ -22,3 +22,9 @@ Data modeling & DAX
 Interactive slicers and filters
 
 Visuals: KPI cards, bar charts, line charts, donut charts, tables
+## 📷 Dashboard Screenshots
+🔹 Overall Sales Performance
+
+![BLINKIT PROJECT  pdf_page-0001 (1)](https://github.com/user-attachments/assets/fe12b7eb-84ae-4ce4-804a-cc7be0ae860f)
+KPI overview showing total sales, average sales, item count, and ratings.
+
