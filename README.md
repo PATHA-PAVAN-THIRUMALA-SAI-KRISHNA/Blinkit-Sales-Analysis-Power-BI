@@ -27,4 +27,14 @@ Visuals: KPI cards, bar charts, line charts, donut charts, tables
 
 ![BLINKIT PROJECT  pdf_page-0001 (1)](https://github.com/user-attachments/assets/fe12b7eb-84ae-4ce4-804a-cc7be0ae860f)
 KPI overview showing total sales, average sales, item count, and ratings.
+## 💡 Key Insights
 
+Low-fat products generate higher sales than regular products
+
+Supermarket Type 1 contributes the highest revenue
+
+Tier 3 outlets outperform Tier 1 and Tier 2 in total sales
+
+Medium-sized outlets show the best sales performance
+
+Fruits, snacks, and household items are top-selling categories
