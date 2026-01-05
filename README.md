@@ -47,6 +47,13 @@ Item details (item type, fat content, visibility)
 Outlet details (outlet type, size, location tier, establishment year)
 
 Sales metrics and customer ratings
+## 🚀 How to Use
+
+Download the .pbix file from the repository
+
+Open it using Power BI Desktop
+
+Use slicers to explore insights by outlet and product type
 
 
 
