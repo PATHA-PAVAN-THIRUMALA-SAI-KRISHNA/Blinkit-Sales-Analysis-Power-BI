@@ -61,7 +61,7 @@ Use slicers to explore insights by outlet and product type
 
 Pavan Sai
 📧 Add your email
-🔗 Add your LinkedIn profile
+🔗 https://www.linkedin.com/in/pavan-sai-28b911344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 
