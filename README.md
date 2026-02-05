@@ -63,7 +63,8 @@ Pavan Sai
 
 📧 GMAIL: pavansaikrishna04@gmail.com
 
-🔗 LINKED IN( https://www.linkedin.com/in/pavan-sai-28b911344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+🔗  Check out the [LINKED IN](https://www.linkedin.com/in/pavan-sai-28b911344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+
 
 
 
